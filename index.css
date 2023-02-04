@@ -1,0 +1,21 @@
+.card:hover{
+    transform: scale(1.10);
+}
+.card{
+    transition: all 0.3s;
+}
+a{
+    text-decoration: none;
+    color: white;
+    display: flex;
+    float: left;
+}
+a:hover{
+    transform: scale(1.05);
+}
+a{
+    transition: all 0.3s;
+}
+.container-fluid{
+    display: flexbox;
+}
