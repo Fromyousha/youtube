@@ -1,21 +1,17 @@
-.card:hover{
-    transform: scale(1.10);
+
+.row ,.row1,.row2,.row3{
+    border: 1px solid black;
 }
-.card{
-    transition: all 0.3s;
+.logonetflix{
+    margin: 5px;
+    padding: 12px;
 }
-a{
-    text-decoration: none;
+.nav{
     color: white;
-    display: flex;
-    float: left;
 }
-a:hover{
-    transform: scale(1.05);
+li{
+    color: white;
 }
-a{
-    transition: all 0.3s;
-}
-.container-fluid{
-    display: flexbox;
+body{
+    background-color: rgb(19, 18, 18);
 }
